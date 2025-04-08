@@ -43,17 +43,6 @@ npm run start:dev
 
 OPENAI_API_KEY=your_api_key_here
 
-# 📁 Folder Structure
-
-src/
-├── ai/
-│   ├── ai.controller.ts
-│   ├── ai.service.ts
-│   └── ai.module.ts
-├── app.controller.ts
-├── app.service.ts
-├── app.module.ts
-
 # 📫 API Endpoint
 
 POST /ai/ai-advice
